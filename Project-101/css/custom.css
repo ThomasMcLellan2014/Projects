@@ -1,0 +1,19 @@
+/* this is my custom CSS */
+
+footer {
+	padding: 3em 0;
+	margin: 3em 0;
+	border-top: 3px solied #dddddd;
+	color: #999999;
+	text-align: center;
+
+}
+.glyphicon {
+	color: #cdae51;
+}
+.glyphicon-pushpin,
+.glyphicon-heart {
+	color: #3f2b22;
+
+}
+
